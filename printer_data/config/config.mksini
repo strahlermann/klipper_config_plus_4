@@ -42,3 +42,7 @@ time                           = 1693
 value                          = ynhx791l
 
 
+[led]
+enable                         = 0
+
+
