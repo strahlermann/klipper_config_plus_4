@@ -43,6 +43,6 @@ value                          = h0but9t5
 
 
 [led]
-enable                         = 0
+enable                         = 1
 
 
