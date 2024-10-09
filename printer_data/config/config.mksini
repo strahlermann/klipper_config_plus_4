@@ -43,6 +43,6 @@ value                          = v5zbwrn5
 
 
 [led]
-enable                         = 1
+enable                         = 0
 
 
