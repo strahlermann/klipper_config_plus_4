@@ -23,7 +23,7 @@ enable                         = 0
 
 
 [app_connection]
-method                         = 1
+method                         = 0
 
 
 [app_server]
