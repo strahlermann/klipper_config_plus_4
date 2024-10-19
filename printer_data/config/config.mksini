@@ -23,7 +23,7 @@ enable                         = 0
 
 
 [app_connection]
-method                         = 0
+method                         = 1
 
 
 [app_server]
@@ -35,11 +35,11 @@ enable                         = 1
 
 
 [total]
-time                           = 2777
+time                           = 3871
 
 
 [device_code]
-value                          = u3hnbrup
+value                          = ugqfewd3
 
 
 [led]
