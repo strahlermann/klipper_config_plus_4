@@ -39,7 +39,7 @@ time                           = 4006
 
 
 [device_code]
-value                          = tp7stdnv
+value                          = epebh252
 
 
 [led]
