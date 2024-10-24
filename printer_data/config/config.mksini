@@ -39,7 +39,7 @@ time                           = 4800
 
 
 [device_code]
-value                          = NULL
+value                          = f8133uxu
 
 
 [led]
